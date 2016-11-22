@@ -1,13 +1,12 @@
 name       : giblib
 version    : 1.2.4
-release    : 4
+release    : 5
 source     :
-    - http://linuxbrit.co.uk/downloads/giblib-1.2.4.tar.gz : 176611c4d88d742ea4013991ad54c2f9d2feefbc97a28434c0f48922ebaa8bac
+    - https://solus-project.com/sources/giblib-1.2.4.tar.gz : 176611c4d88d742ea4013991ad54c2f9d2feefbc97a28434c0f48922ebaa8bac
 homepage   : http://freecode.com/projects/giblib
 license    :
     - BSD
-summary    : giblib is a simple library which wraps imlib2 and provides a context
-    API for it
+summary    : giblib is a simple library which wraps imlib2 and provides a context API for it
 builddeps  :
     - pkgconfig(imlib2)
     - pkgconfig(x11)
