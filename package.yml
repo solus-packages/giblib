@@ -1,8 +1,8 @@
 name       : giblib
 version    : 1.2.4
-release    : 6
+release    : 7
 source     :
-    - https://solus-project.com/sources/giblib-1.2.4.tar.gz : 176611c4d88d742ea4013991ad54c2f9d2feefbc97a28434c0f48922ebaa8bac
+    - https://getsol.us/sources/giblib-1.2.4.tar.gz : 176611c4d88d742ea4013991ad54c2f9d2feefbc97a28434c0f48922ebaa8bac
 homepage   : http://freshmeat.sourceforge.net/projects/giblib
 license    : MIT
 component  : desktop.library
