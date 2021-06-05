@@ -1,3 +1,6 @@
+libgiblib.so.1:__bss_start
+libgiblib.so.1:_edata
+libgiblib.so.1:_end
 libgiblib.so.1:_gib_efree
 libgiblib.so.1:_gib_emalloc
 libgiblib.so.1:_gib_erealloc
